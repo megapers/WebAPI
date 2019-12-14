@@ -1,0 +1,14 @@
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\bin\Debug\EnumerationRouteConstraint.dll.config
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\bin\Debug\EnumerationRouteConstraint.dll
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\bin\Debug\EnumerationRouteConstraint.pdb
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\bin\Debug\System.Web.Http.dll
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\bin\Debug\System.Web.Http.xml
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\obj\Debug\EnumerationRouteConstraint.csprojAssemblyReference.cache
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\obj\Debug\EnumerationRouteConstraint.csproj.CoreCompileInputs.cache
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\obj\Debug\EnumerationRouteConstraint.csproj.CopyComplete
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\obj\Debug\EnumerationRouteConstraint.dll
+C:\Users\tmakimov\Desktop\Udemy\WebAPI\TestProject2\EnumerationRouteConstraint\obj\Debug\EnumerationRouteConstraint.pdb
